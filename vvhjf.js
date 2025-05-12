@@ -1,0 +1,4 @@
+<script>
+checkAndAddUserSimulated();
+
+</script>
